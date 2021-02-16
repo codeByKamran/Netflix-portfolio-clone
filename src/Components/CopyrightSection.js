@@ -9,7 +9,7 @@ const CopyrightSection = () => {
           Netflix
         </a>
         <strong>Clone</strong> is built by
-        <a href="https://www.azharzaman.com" target="_blank">
+        <a href="https://kamran-personal-portfolio.netlify.app" target="_blank">
           Azhar Zaman
         </a>
         with

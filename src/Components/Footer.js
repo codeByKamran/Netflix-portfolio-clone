@@ -1,7 +1,5 @@
 import React from "react";
-
 import { Link } from "react-scroll";
-import CopyrightSection from "./CopyrightSection";
 
 const Footer = () => {
   return (
@@ -82,7 +80,6 @@ const Footer = () => {
           </a>
         </div>
       </div>
-      // <CopyrightSection />
       <div className="btm">
         <h3>e</h3>
       </div>
